@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abjoshua
 - 👀 I’m interested in data analytics, data mining, SQL, visualization 
 - 🌱 I’m currently learning Google professional data analytics courses
-- 💞️ I’m looking to collaborate on anything data and gain insights as well
+- 💞️ I’m looking to collaborate on anything data related to gain more insights in my career path
 - 📫 How to reach me on LinkedIn as Audu Abudu Joshua
 
 <!---
